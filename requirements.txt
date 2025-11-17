@@ -9,7 +9,7 @@ langchain-huggingface
 sentence-transformers
 huggingface-hub
 
-chromadb
+
 
 openai>=1.0.0
 
