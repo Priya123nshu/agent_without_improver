@@ -6,11 +6,7 @@ python-dotenv
 numpy
 pandas
 tqdm
-langchain
-langchain-community
-sentence-transformers
-huggingface-hub
-python-dotenv
-numpy
-pandas
-tqdm
+
+streamlit
+faiss-cpu
+torch
