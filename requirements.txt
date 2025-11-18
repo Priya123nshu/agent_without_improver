@@ -19,3 +19,4 @@ numpy
 
 streamlit
 chromadb
+faiss-cpu
